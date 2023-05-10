@@ -1,5 +1,5 @@
 # TMG Weekly Lotto
- * Weekly draw (2560 blocks).
+ * Weekly draw (2520 blocks).
  * At least one and only one winner.
  * Prize is 90% of contract balance. The remaining is kept to incentive next contest.
 
